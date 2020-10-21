@@ -6,8 +6,9 @@
   <artifactId>flexicore-model-archetype</artifactId>
   <version>1.0.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
-
   <name>flexicore-model-archetype</name>
+  <description>archetype for flexicore model plugins</description>
+  <url>https://wizzdi.com</url>
 
   <licenses>
     <license>
@@ -33,10 +34,10 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://wizzdi/flexicore-entity-archetype.git</connection>
-    <developerConnection>scm:git:git@github.com:wizzdi/flexicore-entity-archetype.git</developerConnection>
-    <url>https://github.com/wizzdi/flexicore-entity-archetype</url>
-    <tag>flexicore-entity-archetype-${version}</tag>
+    <connection>scm:git:git://wizzdi/flexicore-model-archetype.git</connection>
+    <developerConnection>scm:git:git@github.com:wizzdi/flexicore-model-archetype.git</developerConnection>
+    <url>https://github.com/wizzdi/flexicore-model-archetype</url>
+    <tag>flexicore-model-archetype-${version}</tag>
   </scm>
 
   <distributionManagement>
